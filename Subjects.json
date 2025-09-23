@@ -1,0 +1,24 @@
+{
+    "subjects": [
+        {
+            "sno": 1,
+            "name": "Java"
+        },
+        {
+            "sno": 2,
+            "name": "Python"
+        },
+        {
+            "sno": 3,
+            "name": "C"
+        },
+        {
+            "sno": 4,
+            "name": "C++"
+        },
+        {
+            "sno": 5,
+            "name": "DBMS"
+        }
+    ]
+}
