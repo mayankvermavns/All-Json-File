@@ -3,5 +3,10 @@
         "subjectno": 1,
         "subjectname": "JavaScript",
         "quizurl": "https://mayankvermavns.github.io/All-Json-File/JavaScript.json"
+    },
+    {
+        "subjectno": 2,
+        "subjectname": "C Language",
+        "quizurl": "....."
     }
 ]
