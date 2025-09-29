@@ -3,12 +3,12 @@
         "id": "m1",
         "title": "Basic Math True/False",
         "description": "Simple erithmatic question",
-        "questions_url": ""
+        "questions_url": "https://mayankvermavns.github.io/All-Json-File/questions_math_m1.json"
     },
     {
         "id": "m2",
         "title": "Advanced Math True/False",
         "description": "Slightly tricky math questions",
-        "questions_url": ""
+        "questions_url": "https://mayankvermavns.github.io/All-Json-File/questions_math_m2.json"
     }
 ]
