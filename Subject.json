@@ -1,12 +1,12 @@
 [
     {
-        "subjectno": 1,
-        "subjectname": "JavaScript",
-        "quizurl": "https://mayankvermavns.github.io/All-Json-File/JavaScript.json"
+        "id": "math",
+        "name": "Mathematics",
+        "quizzes_url": ""
     },
     {
-        "subjectno": 2,
-        "subjectname": "C Language",
-        "quizurl": "https://mayankvermavns.github.io/All-Json-File/C language.json"
+        "id": "java",
+        "name": "Java",
+        "quizzes_url": ""
     }
 ]

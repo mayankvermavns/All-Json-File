@@ -1,0 +1,31 @@
+{
+    "id": "m2",
+    "title": "Advanced Math True/False",
+    "questions": [
+        {
+            "id": "q1",
+            "text": "The determinant of a singular matrix is always zero",
+            "answer": "True"
+        },
+        {
+            "id": "q2",
+            "text": "All continuous functions are differentaible",
+            "answer": "False"
+        },
+        {
+            "id": "q3",
+            "text": "If the derivative of a function is zero everywhare,the function must be a constant",
+            "answer": "True"
+        },
+        {
+            "id": "q4",
+            "text": "The eigenvalues of a real symmetric matrix are always real",
+            "answer": "True"
+        },
+        {
+            "id": "q5",
+            "text": "Every invertible matrix is a square matrix",
+            "answer": "True"
+        }
+    ]
+}

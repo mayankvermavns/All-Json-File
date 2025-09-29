@@ -1,0 +1,31 @@
+{
+    "id": "m1",
+    "title": "Basic Math True/False",
+    "questions": [
+        {
+            "id": "q1",
+            "text": "Zero is an even number",
+            "answer": "True"
+        },
+        {
+            "id": "q2",
+            "text": "The sum of two odd number is always odd",
+            "answer": "False"
+        },
+        {
+            "id": "q3",
+            "text": "A square is always a rectangle",
+            "answer": "True"
+        },
+        {
+            "id": "q4",
+            "text": "Division by zero is possible in mathematics",
+            "answer": "False"
+        },
+        {
+            "id": "q5",
+            "text": "The number 1 is a prime number",
+            "answer": "False"
+        }
+    ]
+} 
