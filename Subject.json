@@ -18,5 +18,10 @@
         "id": "react",
         "name": "React",
         "quizzes_url": "https://mayankvermavns.github.io/All-Json-File/quizzes_react.json"
+    },
+    {
+        "id": "js",
+        "name": "JavaScript",
+        "quizzes_url": ""
     }
 ]

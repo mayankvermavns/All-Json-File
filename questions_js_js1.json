@@ -1,0 +1,31 @@
+{
+    "id": "js1",
+    "title": "Basic JavaScript True/False",
+    "questions": [
+        {
+            "id": "q1",
+            "text": "JavaScript is a programming language used to make web pages interactive.",
+            "answer": "True"
+        },
+        {
+            "id": "q2",
+            "text": "In JavaScript, variables declared with 'var' have block scope.",
+            "answer": "False"
+        },
+        {
+            "id": "q3",
+            "text": "The 'console.log()' function is used to print messages to the browser console.",
+            "answer": "True"
+        },
+        {
+            "id": "q4",
+            "text": "JavaScript and Java are the same programming language.",
+            "answer": "False"
+        },
+        {
+            "id": "q5",
+            "text": "In JavaScript, strings are written inside quotes.",
+            "answer": "True"
+        }
+    ]
+}

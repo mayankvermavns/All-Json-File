@@ -1,0 +1,14 @@
+[
+    {
+        "id": "js1",
+        "title": "Basic JavaScript True/False",
+        "description": "Simple JavaScript question",
+        "questions_url": ""
+    },
+    {
+        "id": "js2",
+        "title": "Advanced JavaScript True/False",
+        "description": "Slightly tricky JavaScript questions",
+        "questions_url": ""
+    }
+]

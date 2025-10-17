@@ -1,0 +1,31 @@
+{
+    "id": "js2",
+    "title": "Advanced JavaScript True/False",
+    "questions": [
+        {
+            "id": "q1",
+            "text": "In JavaScript, functions are first-class citizens.",
+            "answer": "True"
+        },
+        {
+            "id": "q2",
+            "text": "The 'this' keyword always refers to the global object.",
+            "answer": "False"
+        },
+        {
+            "id": "q3",
+            "text": "JavaScript is a single-threaded, non-blocking, asynchronous language.",
+            "answer": "True"
+        },
+        {
+            "id": "q4",
+            "text": "A closure gives you access to an outer function’s scope from an inner function.",
+            "answer": "True"
+        },
+        {
+            "id": "q5",
+            "text": "Promises in JavaScript are used to handle synchronous operations.",
+            "answer": "False"
+        }
+    ]
+}
