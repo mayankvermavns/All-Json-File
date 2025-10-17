@@ -1,0 +1,31 @@
+{
+    "id": "gk2",
+    "title": "Advanced General Knowledge True/False",
+    "questions": [
+        {
+            "id": "q1",
+            "text": "The Nobel Prize was first awarded in the year 1901.",
+            "answer": "True"
+        },
+        {
+            "id": "q2",
+            "text": "The currency of Japan is Yen.",
+            "answer": "True"
+        },
+        {
+            "id": "q3",
+            "text": "Mount Everest lies entirely within the borders of India.",
+            "answer": "False"
+        },
+        {
+            "id": "q4",
+            "text": "The International Court of Justice is located in Geneva, Switzerland.",
+            "answer": "False"
+        },
+        {
+            "id": "q5",
+            "text": "The planet Saturn has the most extensive ring system in the Solar System.",
+            "answer": "True"
+        }
+    ]
+}

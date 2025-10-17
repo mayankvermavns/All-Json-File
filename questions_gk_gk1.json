@@ -1,0 +1,31 @@
+{
+    "id": "gk1",
+    "title": "Basic General Knowledge True/False",
+    "questions": [
+        {
+            "id": "q1",
+            "text": "The capital of India is New Delhi.",
+            "answer": "True"
+        },
+        {
+            "id": "q2",
+            "text": "The Great Wall of China is visible from the Moon with the naked eye.",
+            "answer": "False"
+        },
+        {
+            "id": "q3",
+            "text": "The national animal of India is the Tiger.",
+            "answer": "True"
+        },
+        {
+            "id": "q4",
+            "text": "The Pacific Ocean is the smallest ocean in the world.",
+            "answer": "False"
+        },
+        {
+            "id": "q5",
+            "text": "Mahatma Gandhi was born in 1869.",
+            "answer": "True"
+        }
+    ]
+}

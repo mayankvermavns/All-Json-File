@@ -1,0 +1,14 @@
+[
+    {
+        "id": "gk1",
+        "title": "Basic GK True/False",
+        "description": "Simple gk question",
+        "questions_url": ""
+    },
+    {
+        "id": "gk2",
+        "title": "Advanced GK True/False",
+        "description": "Slightly tricky gk questions",
+        "questions_url": ""
+    }
+]
