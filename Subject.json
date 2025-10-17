@@ -3,6 +3,10 @@
         "id": "math",
         "name": "Mathematics",
         "quizzes_url": "https://mayankvermavns.github.io/All-Json-File/quizzes_math.json"
+    },
+    {
+        "id": "science",
+        "name": "Science",
+        "quizzes_url": ""
     }
-
 ]
