@@ -3,12 +3,12 @@
         "id": "react1",
         "title": "Basic React True/False",
         "description": "Simple react question",
-        "questions_url": ""
+        "questions_url": "https://mayankvermavns.github.io/All-Json-File/questions_react_r1.json"
     },
     {
         "id": "react2",
         "title": "Advanced React True/False",
         "description": "Slightly tricky react questions",
-        "questions_url": ""
+        "questions_url": "https://mayankvermavns.github.io/All-Json-File/questions_react_r2.json"
     }
 ]
