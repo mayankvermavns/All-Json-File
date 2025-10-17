@@ -1,0 +1,31 @@
+{
+    "id": "r1",
+    "title": "Basic React True/False",
+    "questions": [
+        {
+            "id": "q1",
+            "text": "React is a JavaScript library for building user interfaces.",
+            "answer": "True"
+        },
+        {
+            "id": "q2",
+            "text": "React applications are made up of multiple reusable components.",
+            "answer": "True"
+        },
+        {
+            "id": "q3",
+            "text": "In React, JSX stands for JavaScript XML.",
+            "answer": "True"
+        },
+        {
+            "id": "q4",
+            "text": "React was developed by Microsoft.",
+            "answer": "False"
+        },
+        {
+            "id": "q5",
+            "text": "useState is a built-in React hook for managing state in functional components.",
+            "answer": "True"
+        }
+    ]
+}

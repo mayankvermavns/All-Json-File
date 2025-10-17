@@ -1,0 +1,31 @@
+{
+    "id": "r2",
+    "title": "Advanced React True/False",
+    "questions": [
+        {
+            "id": "q1",
+            "text": "The Virtual DOM in React is a lightweight copy of the real DOM used to improve performance.",
+            "answer": "True"
+        },
+        {
+            "id": "q2",
+            "text": "In React, props can be modified inside the child component.",
+            "answer": "False"
+        },
+        {
+            "id": "q3",
+            "text": "The useEffect hook can be used to perform side effects such as data fetching or DOM manipulation.",
+            "answer": "True"
+        },
+        {
+            "id": "q4",
+            "text": "React Context API is used to pass data through the component tree without using props manually at every level.",
+            "answer": "True"
+        },
+        {
+            "id": "q5",
+            "text": "Keys in React lists help identify which elements have changed, but using array indexes as keys is always recommended.",
+            "answer": "False"
+        }
+    ]
+}

@@ -13,5 +13,10 @@
         "id": "gk",
         "name": "GK",
         "quizzes_url": "https://mayankvermavns.github.io/All-Json-File/quizzes_gk.json"
+    },
+    {
+        "id": "react",
+        "name": "React",
+        "quizzes_url": ""
     }
 ]
